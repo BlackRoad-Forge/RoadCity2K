@@ -1,3 +1,20 @@
+# RoadCity2K
+
+> SimCity 2000 in the browser — isometric city builder
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`blackboxprogramming/OpenSC2K`](https://github.com/blackboxprogramming/OpenSC2K) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | JavaScript |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 # OpenSC2K
 OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript, using WebGL Canvas and [Phaser 3](https://github.com/photonstorm/phaser/).
 
