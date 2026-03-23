@@ -5,8 +5,8 @@ import jQuery from 'jquery';
 import './styles/global.css';
 
 var config = {
-  gameTitle: 'OpenSC2K',
-  gameURL: 'https://github.com/rage8885/OpenSC2K',
+  gameTitle: 'Roadopolis',
+  gameURL: 'https://github.com/BlackRoad-Forge/RoadCity2K',
   type: Phaser.WEBGL,
   resolution: 1,
   autoRound: true,

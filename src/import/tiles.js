@@ -46,7 +46,7 @@ var data = [
     id: 5,
     type: 'building',
     subtype: 'landscape',
-    description: 'Radioactive waste',
+    description: 'Corrupted data',
     size: 1,
     image: '1005',
     requiresTerrain: true,
@@ -116,14 +116,14 @@ var data = [
   {
     id: 13,
     type: 'building',
-    description: 'Small park',
+    description: 'Small cache',
     size: 1,
     image: '1013',
   },
   {
     id: 14,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1014',
     rotate: [14, 15, 14, 15],
@@ -131,7 +131,7 @@ var data = [
   {
     id: 15,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1015',
     rotate: [15, 14, 15, 14],
@@ -139,7 +139,7 @@ var data = [
   {
     id: 16,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1016',
     rotate: [16, 17, 18, 19],
@@ -147,7 +147,7 @@ var data = [
   {
     id: 17,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1017',
     rotate: [17, 18, 19, 16],
@@ -155,7 +155,7 @@ var data = [
   {
     id: 18,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1018',
     rotate: [18, 19, 16, 17],
@@ -163,7 +163,7 @@ var data = [
   {
     id: 19,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1019',
     rotate: [19, 16, 17, 18],
@@ -171,7 +171,7 @@ var data = [
   {
     id: 20,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1020',
     rotate: [20, 21, 22, 23],
@@ -179,7 +179,7 @@ var data = [
   {
     id: 21,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1021',
     rotate: [21, 22, 23, 20],
@@ -187,7 +187,7 @@ var data = [
   {
     id: 22,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1022',
     rotate: [22, 23, 20, 21],
@@ -195,7 +195,7 @@ var data = [
   {
     id: 23,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1023',
     rotate: [23, 20, 21, 22],
@@ -203,7 +203,7 @@ var data = [
   {
     id: 24,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1024',
     rotate: [24, 25, 26, 27],
@@ -211,7 +211,7 @@ var data = [
   {
     id: 25,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1025',
     rotate: [25, 26, 27, 24],
@@ -219,7 +219,7 @@ var data = [
   {
     id: 26,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1026',
     rotate: [26, 27, 24, 25],
@@ -227,7 +227,7 @@ var data = [
   {
     id: 27,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1027',
     rotate: [27, 24, 25, 26],
@@ -235,14 +235,14 @@ var data = [
   {
     id: 28,
     type: 'power',
-    description: 'Power lines',
+    description: 'Fiber Links',
     size: 1,
     image: '1028',
   },
   {
     id: 29,
     type: 'road',
-    description: 'Road (straight)',
+    description: 'HTTP Route (straight)',
     size: 1,
     image: '1029',
     rotate: [29, 30, 29, 30],
@@ -255,7 +255,7 @@ var data = [
   {
     id: 30,
     type: 'road',
-    description: 'Road (straight)',
+    description: 'HTTP Route (straight)',
     size: 1,
     image: '1030',
     rotate: [30, 29, 30, 29],
@@ -268,7 +268,7 @@ var data = [
   {
     id: 31,
     type: 'road',
-    description: 'Road (sloped)',
+    description: 'HTTP Route (sloped)',
     size: 1,
     image: '1031',
     rotate: [31, 32, 33, 34],
@@ -281,7 +281,7 @@ var data = [
   {
     id: 32,
     type: 'road',
-    description: 'Road (sloped)',
+    description: 'HTTP Route (sloped)',
     size: 1,
     image: '1032',
     rotate: [32, 33, 34, 31],
@@ -294,7 +294,7 @@ var data = [
   {
     id: 33,
     type: 'road',
-    description: 'Road (sloped)',
+    description: 'HTTP Route (sloped)',
     size: 1,
     image: '1033',
     rotate: [33, 34, 31, 32],
@@ -307,7 +307,7 @@ var data = [
   {
     id: 34,
     type: 'road',
-    description: 'Road (sloped)',
+    description: 'HTTP Route (sloped)',
     size: 1,
     image: '1034',
     rotate: [34, 31, 32, 33],
@@ -320,7 +320,7 @@ var data = [
   {
     id: 35,
     type: 'road',
-    description: 'Road (curve)',
+    description: 'HTTP Route (curve)',
     size: 1,
     image: '1035',
     rotate: [35, 36, 37, 38],
@@ -333,7 +333,7 @@ var data = [
   {
     id: 36,
     type: 'road',
-    description: 'Road (curve)',
+    description: 'HTTP Route (curve)',
     size: 1,
     image: '1036',
     rotate: [36, 37, 38, 35],
@@ -346,7 +346,7 @@ var data = [
   {
     id: 37,
     type: 'road',
-    description: 'Road (curve)',
+    description: 'HTTP Route (curve)',
     size: 1,
     image: '1037',
     rotate: [37, 38, 35, 36],
@@ -359,7 +359,7 @@ var data = [
   {
     id: 38,
     type: 'road',
-    description: 'Road (curve)',
+    description: 'HTTP Route (curve)',
     size: 1,
     image: '1038',
     rotate: [38, 35, 36, 37],
@@ -372,7 +372,7 @@ var data = [
   {
     id: 39,
     type: 'road',
-    description: 'Road (3 way intersection)',
+    description: 'HTTP Route (3 way intersection)',
     size: 1,
     image: '1039',
     rotate: [39, 40, 41, 42],
@@ -385,7 +385,7 @@ var data = [
   {
     id: 40,
     type: 'road',
-    description: 'Road (3 way intersection)',
+    description: 'HTTP Route (3 way intersection)',
     size: 1,
     image: '1040',
     rotate: [40, 41, 42, 39],
@@ -398,7 +398,7 @@ var data = [
   {
     id: 41,
     type: 'road',
-    description: 'Road (3 way intersection)',
+    description: 'HTTP Route (3 way intersection)',
     size: 1,
     image: '1041',
     rotate: [41, 42, 39, 40],
@@ -411,7 +411,7 @@ var data = [
   {
     id: 42,
     type: 'road',
-    description: 'Road (3 way intersection)',
+    description: 'HTTP Route (3 way intersection)',
     size: 1,
     image: '1042',
     rotate: [42, 39, 40, 41],
@@ -424,7 +424,7 @@ var data = [
   {
     id: 43,
     type: 'road',
-    description: 'Road (4 way intersection)',
+    description: 'HTTP Route (4 way intersection)',
     size: 1,
     image: '1043',
     simulation: 'traffic',
@@ -436,7 +436,7 @@ var data = [
   {
     id: 44,
     type: 'rail',
-    description: 'Rails (straight)',
+    description: 'NATS Rail (straight)',
     size: 1,
     image: '1044',
     rotate: [44, 45, 44, 45],
@@ -444,7 +444,7 @@ var data = [
   {
     id: 45,
     type: 'rail',
-    description: 'Rails (straight)',
+    description: 'NATS Rail (straight)',
     size: 1,
     image: '1045',
     rotate: [45, 44, 45, 44],
@@ -452,7 +452,7 @@ var data = [
   {
     id: 46,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1046',
     rotate: [46, 47, 48, 49],
@@ -460,7 +460,7 @@ var data = [
   {
     id: 47,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1047',
     rotate: [47, 48, 49, 46],
@@ -468,7 +468,7 @@ var data = [
   {
     id: 48,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1048',
     rotate: [48, 49, 46, 47],
@@ -476,7 +476,7 @@ var data = [
   {
     id: 49,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1049',
     rotate: [49, 46, 47, 48],
@@ -484,7 +484,7 @@ var data = [
   {
     id: 50,
     type: 'rail',
-    description: 'Rails (curve)',
+    description: 'NATS Rail (curve)',
     size: 1,
     image: '1050',
     rotate: [50, 51, 52, 53],
@@ -492,7 +492,7 @@ var data = [
   {
     id: 51,
     type: 'rail',
-    description: 'Rails (curve)',
+    description: 'NATS Rail (curve)',
     size: 1,
     image: '1051',
     rotate: [51, 52, 53, 50],
@@ -500,7 +500,7 @@ var data = [
   {
     id: 52,
     type: 'rail',
-    description: 'Rails (curve)',
+    description: 'NATS Rail (curve)',
     size: 1,
     image: '1052',
     rotate: [52, 53, 50, 51],
@@ -508,7 +508,7 @@ var data = [
   {
     id: 53,
     type: 'rail',
-    description: 'Rails (curve)',
+    description: 'NATS Rail (curve)',
     size: 1,
     image: '1053',
     rotate: [53, 50, 51, 52],
@@ -516,7 +516,7 @@ var data = [
   {
     id: 54,
     type: 'rail',
-    description: 'Rails (junction)',
+    description: 'NATS Rail (junction)',
     size: 1,
     image: '1054',
     rotate: [54, 55, 56, 57],
@@ -524,7 +524,7 @@ var data = [
   {
     id: 55,
     type: 'rail',
-    description: 'Rails (junction)',
+    description: 'NATS Rail (junction)',
     size: 1,
     image: '1055',
     rotate: [55, 56, 57, 54],
@@ -532,7 +532,7 @@ var data = [
   {
     id: 56,
     type: 'rail',
-    description: 'Rails (junction)',
+    description: 'NATS Rail (junction)',
     size: 1,
     image: '1056',
     rotate: [56, 57, 54, 55],
@@ -540,7 +540,7 @@ var data = [
   {
     id: 57,
     type: 'rail',
-    description: 'Rails (junction)',
+    description: 'NATS Rail (junction)',
     size: 1,
     image: '1057',
     rotate: [57, 54, 55, 56],
@@ -548,14 +548,14 @@ var data = [
   {
     id: 58,
     type: 'rail',
-    description: 'Rails (X junction)',
+    description: 'NATS Rail (X junction)',
     size: 1,
     image: '1058',
   },
   {
     id: 59,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1059',
     rotate: [59, 60, 61, 62],
@@ -563,7 +563,7 @@ var data = [
   {
     id: 60,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1060',
     rotate: [60, 61, 62, 59],
@@ -571,7 +571,7 @@ var data = [
   {
     id: 61,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1061',
     rotate: [61, 62, 59, 60],
@@ -579,7 +579,7 @@ var data = [
   {
     id: 62,
     type: 'rail',
-    description: 'Rails (slope)',
+    description: 'NATS Rail (slope)',
     size: 1,
     image: '1062',
     rotate: [62, 59, 60, 61],
@@ -685,7 +685,7 @@ var data = [
   {
     id: 73,
     type: 'highway',
-    description: 'Highway (straight)',
+    description: 'CDN Highway (straight)',
     direction: 'ns',
     size: 1,
     image: '1073',
@@ -699,7 +699,7 @@ var data = [
   {
     id: 74,
     type: 'highway',
-    description: 'Highway (straight)',
+    description: 'CDN Highway (straight)',
     direction: 'ew',
     size: 1,
     image: '1074',
@@ -862,7 +862,7 @@ var data = [
   {
     id: 86,
     type: 'road',
-    description: 'Road (Bridge Lift)',
+    description: 'HTTP Route (Bridge Lift)',
     size: 1,
     image: '1086',
     flip: true,
@@ -871,7 +871,7 @@ var data = [
   {
     id: 87,
     type: 'road',
-    description: 'Road (Causeway)',
+    description: 'HTTP Route (Causeway)',
     size: 1,
     image: '1087',
     flip: true,
@@ -885,7 +885,7 @@ var data = [
   {
     id: 88,
     type: 'road',
-    description: 'Road (Bridge Down)',
+    description: 'HTTP Route (Bridge Down)',
     size: 1,
     image: '1088',
     flip: true,
@@ -899,7 +899,7 @@ var data = [
   {
     id: 89,
     type: 'road',
-    description: 'Road (Bridge Up)',
+    description: 'HTTP Route (Bridge Up)',
     size: 1,
     image: '1089',
     flip: true,
@@ -935,7 +935,7 @@ var data = [
   {
     id: 93,
     type: 'highway',
-    description: 'Highway Onramp',
+    description: 'CDN Highway Onramp',
     size: 1,
     image: '1093',
     rotate: [93, 96, 93, 96],
@@ -951,7 +951,7 @@ var data = [
   {
     id: 94,
     type: 'highway',
-    description: 'Highway Onramp',
+    description: 'CDN Highway Onramp',
     size: 1,
     image: '1094',
     rotate: [94, 95, 94, 95],
@@ -967,7 +967,7 @@ var data = [
   {
     id: 95,
     type: 'highway',
-    description: 'Highway Onramp',
+    description: 'CDN Highway Onramp',
     size: 1,
     image: '1095',
     rotate: [95, 94, 95, 94],
@@ -983,7 +983,7 @@ var data = [
   {
     id: 96,
     type: 'highway',
-    description: 'Highway Onramp',
+    description: 'CDN Highway Onramp',
     size: 1,
     image: '1096',
     rotate: [96, 93, 96, 93],
@@ -999,7 +999,7 @@ var data = [
   {
     id: 97,
     type: 'highway',
-    description: 'Highway (Slope)',
+    description: 'CDN Highway (Slope)',
     size: 2,
     image: '1097',
     rotate: [97, 98, 99, 100],
@@ -1012,7 +1012,7 @@ var data = [
   {
     id: 98,
     type: 'highway',
-    description: 'Highway (Slope)',
+    description: 'CDN Highway (Slope)',
     size: 2,
     image: '1098',
     rotate: [98, 99, 100, 97],
@@ -1025,7 +1025,7 @@ var data = [
   {
     id: 99,
     type: 'highway',
-    description: 'Highway (Slope)',
+    description: 'CDN Highway (Slope)',
     size: 2,
     image: '1099',
     rotate: [99, 100, 97, 98],
@@ -1038,7 +1038,7 @@ var data = [
   {
     id: 100,
     type: 'highway',
-    description: 'Highway (Slope)',
+    description: 'CDN Highway (Slope)',
     size: 2,
     image: '1100',
     rotate: [100, 97, 98, 99],
@@ -1051,7 +1051,7 @@ var data = [
   {
     id: 101,
     type: 'highway',
-    description: 'Highway (Curve)',
+    description: 'CDN Highway (Curve)',
     size: 2,
     image: '1101',
     rotate: [101, 102, 103, 104],
@@ -1064,7 +1064,7 @@ var data = [
   {
     id: 102,
     type: 'highway',
-    description: 'Highway (Curve)',
+    description: 'CDN Highway (Curve)',
     size: 2,
     image: '1102',
     rotate: [102, 103, 104, 101],
@@ -1077,7 +1077,7 @@ var data = [
   {
     id: 103,
     type: 'highway',
-    description: 'Highway (Curve)',
+    description: 'CDN Highway (Curve)',
     size: 2,
     image: '1103',
     rotate: [103, 104, 101, 102],
@@ -1090,7 +1090,7 @@ var data = [
   {
     id: 104,
     type: 'highway',
-    description: 'Highway (Curve)',
+    description: 'CDN Highway (Curve)',
     size: 2,
     image: '1104',
     rotate: [104, 101, 102, 103],
@@ -1103,7 +1103,7 @@ var data = [
   {
     id: 105,
     type: 'highway',
-    description: 'Highway (Cloverleaf)',
+    description: 'CDN Highway (Cloverleaf)',
     size: 2,
     image: '1105',
     simulation: 'highwayTraffic',
@@ -1115,7 +1115,7 @@ var data = [
   {
     id: 106,
     type: 'highway',
-    description: 'Highway (Reinforced Bridge w/ Support)',
+    description: 'CDN Highway (Reinforced Bridge w/ Support)',
     size: 2,
     image: '1106',
     flip: true,
@@ -1124,7 +1124,7 @@ var data = [
   {
     id: 107,
     type: 'highway',
-    description: 'Highway (Reinforced Bridge)',
+    description: 'CDN Highway (Reinforced Bridge)',
     size: 2,
     image: '1107',
     flip: true,
@@ -1134,7 +1134,7 @@ var data = [
     id: 108,
     type: 'rail',
     subtype: 'subway',
-    description: 'Subway <-> Rails Transition',
+    description: 'Metro <-> Rails Transition',
     size: 1,
     image: '1108',
     rotate: [108, 109, 110, 111],
@@ -1143,7 +1143,7 @@ var data = [
     id: 109,
     type: 'rail',
     subtype: 'subway',
-    description: 'Subway <-> Rails Transition',
+    description: 'Metro <-> Rails Transition',
     size: 1,
     image: '1109',
     rotate: [109, 110, 111, 108],
@@ -1152,7 +1152,7 @@ var data = [
     id: 110,
     type: 'rail',
     subtype: 'subway',
-    description: 'Subway <-> Rails Transition',
+    description: 'Metro <-> Rails Transition',
     size: 1,
     image: '1110',
     rotate: [110, 111, 108, 109],
@@ -1161,7 +1161,7 @@ var data = [
     id: 111,
     type: 'rail',
     subtype: 'subway',
-    description: 'Subway <-> Rails Transition',
+    description: 'Metro <-> Rails Transition',
     size: 1,
     image: '1111',
     rotate: [111, 108, 109, 110],
@@ -1169,84 +1169,84 @@ var data = [
   {
     id: 112,
     type: 'building',
-    description: 'Lower-class homes',
+    description: 'Basic worker pods',
     size: 1,
     image: '1112',
   },
   {
     id: 113,
     type: 'building',
-    description: 'Lower-class homes',
+    description: 'Basic worker pods',
     size: 1,
     image: '1113',
   },
   {
     id: 114,
     type: 'building',
-    description: 'Lower-class homes',
+    description: 'Basic worker pods',
     size: 1,
     image: '1114',
   },
   {
     id: 115,
     type: 'building',
-    description: 'Lower-class homes',
+    description: 'Basic worker pods',
     size: 1,
     image: '1115',
   },
   {
     id: 116,
     type: 'building',
-    description: 'Middle-class homes',
+    description: 'Standard worker pods',
     size: 1,
     image: '1116',
   },
   {
     id: 117,
     type: 'building',
-    description: 'Middle-class homes',
+    description: 'Standard worker pods',
     size: 1,
     image: '1117',
   },
   {
     id: 118,
     type: 'building',
-    description: 'Middle-class homes',
+    description: 'Standard worker pods',
     size: 1,
     image: '1118',
   },
   {
     id: 119,
     type: 'building',
-    description: 'Middle-class homes',
+    description: 'Standard worker pods',
     size: 1,
     image: '1119',
   },
   {
     id: 120,
     type: 'building',
-    description: 'Luxury homes',
+    description: 'Premium worker pods',
     size: 1,
     image: '1120',
   },
   {
     id: 121,
     type: 'building',
-    description: 'Luxury homes',
+    description: 'Premium worker pods',
     size: 1,
     image: '1121',
   },
   {
     id: 122,
     type: 'building',
-    description: 'Luxury homes',
+    description: 'Premium worker pods',
     size: 1,
     image: '1122',
   },
   {
     id: 123,
     type: 'building',
-    description: 'Luxury homes',
+    description: 'Premium worker pods',
     size: 1,
     image: '1123',
   },
@@ -1330,7 +1330,7 @@ var data = [
   {
     id: 135,
     type: 'building',
-    description: 'Industrial substation',
+    description: 'Compute substation',
     size: 1,
     image: '1135',
   },
@@ -1351,14 +1351,14 @@ var data = [
   {
     id: 138,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 1,
     image: '1138',
   },
   {
     id: 139,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 1,
     image: '1139',
   },
@@ -1575,28 +1575,28 @@ var data = [
   {
     id: 170,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 2,
     image: '1170',
   },
   {
     id: 171,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 2,
     image: '1171',
   },
   {
     id: 172,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 2,
     image: '1172',
   },
   {
     id: 173,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 2,
     image: '1173',
   },
@@ -1763,14 +1763,14 @@ var data = [
   {
     id: 196,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 3,
     image: '1196',
   },
   {
     id: 197,
     type: 'building',
-    description: 'Abandoned building',
+    description: 'Abandoned node',
     size: 3,
     image: '1197',
   },
@@ -1778,7 +1778,7 @@ var data = [
     id: 198,
     type: 'building',
     subtype: 'water',
-    description: 'Hydroelectric power',
+    description: 'Hydroelectric Compute',
     size: 1,
     image: '1198',
     rotate: [198, 199, 198, 199],
@@ -1787,7 +1787,7 @@ var data = [
     microsimulator: {
       type: 'cityWide',
       data1: { description: null, type: null },
-      data2: { description: 'Hydro Generators', type: 'hydroGeneratorCount' },
+      data2: { description: 'Hydro Nodes', type: 'hydroGeneratorCount' },
       data3: { description: 'Max System Output', type: 'hydroGeneratorMegawatts' },
       data4: { description: null, type: null },
     }
@@ -1796,7 +1796,7 @@ var data = [
     id: 199,
     type: 'building',
     subtype: 'water',
-    description: 'Hydroelectric power',
+    description: 'Hydroelectric Compute',
     size: 1,
     image: '1199',
     rotate: [199, 198, 199, 198],
@@ -1805,7 +1805,7 @@ var data = [
     microsimulator: {
       type: 'cityWide',
       data1: { description: null, type: null },
-      data2: { description: 'Hydro Generators', type: 'hydroGeneratorCount' },
+      data2: { description: 'Hydro Nodes', type: 'hydroGeneratorCount' },
       data3: { description: 'Max System Output', type: 'hydroGeneratorMegawatts' },
       data4: { description: null, type: null },
     }
@@ -1813,13 +1813,13 @@ var data = [
   {
     id: 200,
     type: 'building',
-    description: 'Wind power',
+    description: 'Edge Compute (Wind)',
     size: 1,
     image: '1200',
     microsimulator: {
       type: 'cityWide',
       data1: { description: null, type: null },
-      data2: { description: 'Wind Generators', type: 'windGeneratorCount' },
+      data2: { description: 'Edge Nodes', type: 'windGeneratorCount' },
       data3: { description: 'Max System Output', type: 'windGeneratorMegawatts' },
       data4: { description: null, type: null },
     }
@@ -1827,7 +1827,7 @@ var data = [
   {
     id: 201,
     type: 'building',
-    description: 'Natural gas power plant',
+    description: 'Gas Compute Plant',
     size: 4,
     image: '1201',
     microsimulator: {
@@ -1840,7 +1840,7 @@ var data = [
   {
     id: 202,
     type: 'building',
-    description: 'Oil power plant',
+    description: 'Oil Compute Plant',
     size: 4,
     image: '1202',
     microsimulator: {
@@ -1853,7 +1853,7 @@ var data = [
   {
     id: 203,
     type: 'building',
-    description: 'Nuclear power plant',
+    description: 'Hailo-8 Accelerator',
     size: 4,
     image: '1203',
     microsimulator: {
@@ -1866,7 +1866,7 @@ var data = [
   {
     id: 204,
     type: 'building',
-    description: 'Solar power plant',
+    description: 'Solar Edge Compute',
     size: 4,
     image: '1204',
     microsimulator: {
@@ -1879,7 +1879,7 @@ var data = [
   {
     id: 205,
     type: 'building',
-    description: 'Microwave power receiver',
+    description: 'Microwave Compute Receiver',
     size: 4,
     image: '1205',
     microsimulator: {
@@ -1892,7 +1892,7 @@ var data = [
   {
     id: 206,
     type: 'building',
-    description: 'Fusion power plant',
+    description: 'Fusion Compute Plant',
     size: 4,
     image: '1206',
     microsimulator: {
@@ -1905,7 +1905,7 @@ var data = [
   {
     id: 207,
     type: 'building',
-    description: 'Coal power plant',
+    description: 'CPU Farm',
     size: 4,
     image: '1207',
     frameRate: 4,
@@ -1919,12 +1919,12 @@ var data = [
   {
     id: 208,
     type: 'building',
-    description: 'City hall',
+    description: 'Network operations center',
     size: 3,
     image: '1208',
     microsimulator: {
       data1: { description: null, type: null },
-      data2: { description: 'Employees', type: 'workers' },
+      data2: { description: 'Workers', type: 'workers' },
       data3: { description: 'Year Built', type: 'constructionYear' },
       data4: { description: null, type: null },
       // unknowns: weddings and bungee jumps report the same count?
@@ -1933,41 +1933,41 @@ var data = [
   {
     id: 209,
     type: 'building',
-    description: 'Hospital',
+    description: 'Health check center',
     size: 3,
     image: '1209',
     microsimulator: {
       data1: { description: 'Grade', type: 'grade' }, // A+ = 12?
-      data2: { description: 'Patients', type: 'hospitalPatients', max: 1000 },
-      data3: { description: 'Doctors', type: 'workers' },
-      data4: { description: 'Annual Cost', type: 'funds' },
+      data2: { description: 'Connections', type: 'hospitalPatients', max: 1000 },
+      data3: { description: 'Monitors', type: 'workers' },
+      data4: { description: 'Resource Cost', type: 'funds' },
       // unknown: beds = 1000
     }
   },
   {
     id: 210,
     type: 'building',
-    description: 'Police station',
+    description: 'Firewall station',
     size: 3,
     image: '1210',
     microsimulator: {
-      data1: { description: 'Annual Cost', type: 'funds' },
-      data2: { description: 'Officers', type: 'workers' },
-      data3: { description: 'Crimes Reported', type: 'crimes' },
-      data4: { description: 'Arrests', type: 'arrests' },
+      data1: { description: 'Resource Cost', type: 'funds' },
+      data2: { description: 'Firewall Agents', type: 'workers' },
+      data3: { description: 'Port Hogging Reports', type: 'crimes' },
+      data4: { description: 'Blocks', type: 'arrests' },
     }
   },
   {
     id: 211,
     type: 'building',
-    description: 'Fire station',
+    description: 'Circuit breaker station',
     size: 3,
     image: '1211',
     microsimulator: {
-      data1: { description: 'Annual Cost', type: 'funds' },
-      data2: { description: 'Firefighers', type: 'workers' },
-      data3: { description: 'Fire Engines', type: 'fireEquipment' },
-      data4: { description: 'Response Time', type: 'fireResponseTime' },
+      data1: { description: 'Resource Cost', type: 'funds' },
+      data2: { description: 'Responders', type: 'workers' },
+      data3: { description: 'Breaker Units', type: 'fireEquipment' },
+      data4: { description: 'Recovery Time', type: 'fireResponseTime' },
     }
   },
   {
@@ -1987,7 +1987,7 @@ var data = [
   {
     id: 213,
     type: 'building',
-    description: 'Park (big)',
+    description: 'Cache (large)',
     size: 3,
     image: '1213',
     microsimulator: {
@@ -1995,7 +1995,7 @@ var data = [
       data1: { description: null, type: null },
       data2: { description: 'Attendance', type: 'parkAttendance' },
       data3: { description: 'Acres', type: 'parkAcres' },
-      data4: { description: 'Employees', type: 'parkWorkers' },
+      data4: { description: 'Workers', type: 'parkWorkers' },
       // unknowns: Capacity is reported as 1500
     },
     importOptions: {
@@ -2005,21 +2005,21 @@ var data = [
   {
     id: 214,
     type: 'building',
-    description: 'School',
+    description: 'Training node',
     size: 3,
     image: '1214',
     microsimulator: {
       data1: { description: 'Grade', type: 'grade' }, // A+ = 12?
-      data2: { description: 'Students', type: 'students', max: 1500 },
-      data3: { description: 'Teachers', type: 'workers' },
-      data4: { description: 'Annual Cost', type: 'funds' },
+      data2: { description: 'Trainees', type: 'students', max: 1500 },
+      data3: { description: 'Instructors', type: 'workers' },
+      data4: { description: 'Resource Cost', type: 'funds' },
       // unknowns: Capacity is reported as 1500
     }
   },
   {
     id: 215,
     type: 'building',
-    description: 'Stadium',
+    description: 'Load balancer',
     size: 4,
     image: '1215',
     microsimulator: {
@@ -2036,12 +2036,12 @@ var data = [
   {
     id: 216,
     type: 'building',
-    description: 'Prison',
+    description: 'Quarantine zone',
     size: 4,
     image: '1216',
     microsimulator: {
-      data1: { description: 'Escapes', type: 'prisonEscapes' },
-      data2: { description: 'Inmates', type: 'prisonInmates', max: 10000 },
+      data1: { description: 'Breakouts', type: 'prisonEscapes' },
+      data2: { description: 'Quarantined', type: 'prisonInmates', max: 10000 },
       data3: { description: 'Guards', type: 'workers' },
       data4: { description: 'Capacity', type: 'capacity', max: 100 },
       // unknown: max inames is reported as 10000
@@ -2050,14 +2050,14 @@ var data = [
   {
     id: 217,
     type: 'building',
-    description: 'College',
+    description: 'Advanced training node',
     size: 4,
     image: '1217',
     microsimulator: {
       data1: { description: 'Grade', type: 'grade' }, // 6 = C+ ?, 10 = A-
       data2: { description: 'Attendance', type: 'students', max: 5000 },
-      data3: { description: 'Teachers', type: 'workers' },
-      data4: { description: 'Annual Cost', type: 'funds' },
+      data3: { description: 'Instructors', type: 'workers' },
+      data4: { description: 'Resource Cost', type: 'funds' },
       // unknowns: Capacity is reported as 1500
     }
   },
@@ -2096,7 +2096,7 @@ var data = [
   {
     id: 220,
     type: 'building',
-    description: 'Water pump',
+    description: 'Data pump',
     size: 1,
     image: '1220',
   },
@@ -2152,21 +2152,21 @@ var data = [
   {
     id: 227,
     type: 'building',
-    description: 'Seaport warehouse',
+    description: 'Ferry terminal warehouse',
     size: 1,
     image: '1227',
   },
   {
     id: 228,
     type: 'building',
-    description: 'Airport building',
+    description: 'Helipad building',
     size: 1,
     image: '1228',
   },
   {
     id: 229,
     type: 'building',
-    description: 'Airport building',
+    description: 'Helipad building',
     size: 1,
     image: '1229',
   },
@@ -2195,13 +2195,13 @@ var data = [
     id: 233,
     type: 'building',
     subtype: 'subway',
-    description: 'Subway station',
+    description: 'Metro Station',
     size: 1,
     image: '1233',
     microsimulator: {
       type: 'cityWide',
       data1: { description: null, type: null },
-      data2: { description: 'Subway Stations', type: 'subwayStationCount' },
+      data2: { description: 'Metro Stations', type: 'subwayStationCount' },
       data3: { description: null, type: null },
       data4: { description: 'Passengers / day', type: 'subwayStationPassengers' },
       // unknown: data1?
@@ -2218,7 +2218,7 @@ var data = [
   {
     id: 235,
     type: 'building',
-    description: 'Water tower',
+    description: 'Data tower',
     size: 2,
     image: '1235',
   },
@@ -2241,13 +2241,13 @@ var data = [
   {
     id: 237,
     type: 'building',
-    description: 'Rail station',
+    description: 'NATS Rail station',
     size: 2,
     image: '1237',
     microsimulator: {
       type: 'cityWide',
       data1: { description: null, type: null },
-      data2: { description: 'Rail Stations', type: 'railStationCount' },
+      data2: { description: 'NATS Rail Stations', type: 'railStationCount' },
       data3: { description: null, type: null },
       data4: { description: 'Passengers / day', type: 'railStationPassengers' },
       // unknown: data1?
@@ -2296,22 +2296,22 @@ var data = [
     size: 2,
     image: '1243',
     microsimulator: {
-      data1: { description: 'Door Steps', type: 'mayorDoorSteps' },
+      data1: { description: 'Login Events', type: 'mayorDoorSteps' },
       data2: { description: 'Year Built', type: 'constructionYear' },
-      data3: { description: 'Approval Rating', type: 'mayorApprovalRating', max: 100 },
-      data4: { description: 'Employees', type: 'workers' },
+      data3: { description: 'Uptime Score', type: 'mayorApprovalRating', max: 100 },
+      data4: { description: 'Workers', type: 'workers' },
     }
   },
   {
     id: 244,
     type: 'building',
-    description: 'Water treatment plant',
+    description: 'Data treatment plant',
     size: 2,
     image: '1244',
     microsimulator: {
       data1: { description: null, type: null },
-      data2: { description: 'Untreated Water', type: 'waterCubicFeet', unit: 'thousands' },
-      data3: { description: 'Treated Water', type: 'waterCubicFeet', unit: 'thousands' },
+      data2: { description: 'Raw Data', type: 'waterCubicFeet', unit: 'thousands' },
+      data3: { description: 'Processed Data', type: 'waterCubicFeet', unit: 'thousands' },
       data4: { description: null, type: null },
       // capacity reported as 5000 cubic feet / minute, stored in data1?
       // example values: data1: 88, data2: 21, data3: 141
@@ -2370,13 +2370,13 @@ var data = [
   {
     id: 250,
     type: 'building',
-    description: 'Desalination plant',
+    description: 'Data filtration plant',
     size: 3,
     image: '1250',
     microsimulator: {
       data1: { description: 'Current Load', type: 'capacity', max: 100 },
       data2: { description: 'Salt / tons Removed', type: 'desalinationSaltRemoved' },
-      data3: { description: 'Employees', type: 'workers' },
+      data3: { description: 'Workers', type: 'workers' },
       data4: { description: null, type: null },
     },
     importOptions: {
@@ -2392,7 +2392,7 @@ var data = [
     microsimulator: {
       data1: { description: 'Condition', type: 'grade' }, //5 = C
       data2: { description: 'Design Capacity', type: 'arcoCapacity', unit: 'thousands' },
-      data3: { description: 'Residents', type: 'arcoPopulation' },
+      data3: { description: 'Worker Agents', type: 'arcoPopulation' },
       data4: { description: 'Year Built', type: 'constructionYear' },
     },
     importOptions: {
@@ -2408,7 +2408,7 @@ var data = [
     microsimulator: {
       data1: { description: 'Condition', type: 'grade' }, //5 = C
       data2: { description: 'Design Capacity', type: 'arcoCapacity', unit: 'thousands' },
-      data3: { description: 'Residents', type: 'arcoPopulation' },
+      data3: { description: 'Worker Agents', type: 'arcoPopulation' },
       data4: { description: 'Year Built', type: 'constructionYear' },
     },
     importOptions: {
@@ -2424,7 +2424,7 @@ var data = [
     microsimulator: {
       data1: { description: 'Condition', type: 'grade' }, //5 = C
       data2: { description: 'Design Capacity', type: 'arcoCapacity', unit: 'thousands' },
-      data3: { description: 'Residents', type: 'arcoPopulation' },
+      data3: { description: 'Worker Agents', type: 'arcoPopulation' },
       data4: { description: 'Year Built', type: 'constructionYear' },
     },
     importOptions: {
@@ -2440,7 +2440,7 @@ var data = [
     microsimulator: {
       data1: { description: 'Condition', type: 'grade' }, //5 = C
       data2: { description: 'Design Capacity', type: 'arcoCapacity', unit: 'thousands' },
-      data3: { description: 'Residents', type: 'arcoPopulation' },
+      data3: { description: 'Worker Agents', type: 'arcoPopulation' },
       data4: { description: 'Year Built', type: 'constructionYear' },
     },
     importOptions: {
@@ -3130,63 +3130,63 @@ var data = [
   {
     id: 291,
     type: 'zone',
-    description: 'Low Density Residential Zone',
+    description: 'Low Density Agent Housing Sector',
     size: 1,
     image: '1291',
   },
   {
     id: 292,
     type: 'zone',
-    description: 'High Density Residential Zone',
+    description: 'High Density Agent Housing Sector',
     size: 1,
     image: '1292',
   },
   {
     id: 293,
     type: 'zone',
-    description: 'Low Density Commercial Zone',
+    description: 'Low Density Service Endpoints Sector',
     size: 1,
     image: '1293',
   },
   {
     id: 294,
     type: 'zone',
-    description: 'High Density Commercial Zone',
+    description: 'High Density Service Endpoints Sector',
     size: 1,
     image: '1294',
   },
   {
     id: 295,
     type: 'zone',
-    description: 'Low Density Industrial Zone',
+    description: 'Low Density Compute Nodes Sector',
     size: 1,
     image: '1295',
   },
   {
     id: 296,
     type: 'zone',
-    description: 'High Density Industrial Zone',
+    description: 'High Density Compute Nodes Sector',
     size: 1,
     image: '1296',
   },
   {
     id: 297,
     type: 'zone',
-    description: 'Military Zone',
+    description: 'Military Sector',
     size: 1,
     image: '1297',
   },
   {
     id: 298,
     type: 'zone',
-    description: 'Airport Zone',
+    description: 'Helipad Sector',
     size: 1,
     image: '1298',
   },
   {
     id: 299,
     type: 'zone',
-    description: 'Seaport Zone',
+    description: 'Ferry Terminal Sector',
     size: 1,
     image: '1299',
   },
@@ -3326,21 +3326,21 @@ var data = [
   {
     id: 319,
     type: 'subway',
-    description: 'Subway (straight)',
+    description: 'Metro (straight)',
     size: 1,
     image: '1319',
   },
   {
     id: 320,
     type: 'subway',
-    description: 'Subway (straight)',
+    description: 'Metro (straight)',
     size: 1,
     image: '1320',
   },
   {
     id: 321,
     type: 'subway',
-    description: 'Subway (slope)',
+    description: 'Metro (slope)',
     size: 1,
     image: '1321',
     rotate: [321, 322, 323, 324],
@@ -3348,7 +3348,7 @@ var data = [
   {
     id: 322,
     type: 'subway',
-    description: 'Subway (slope)',
+    description: 'Metro (slope)',
     size: 1,
     image: '1322',
     rotate: [322, 323, 324, 321],
@@ -3356,7 +3356,7 @@ var data = [
   {
     id: 323,
     type: 'subway',
-    description: 'Subway (slope)',
+    description: 'Metro (slope)',
     size: 1,
     image: '1323',
     rotate: [327, 328, 325, 326],
@@ -3364,7 +3364,7 @@ var data = [
   {
     id: 324,
     type: 'subway',
-    description: 'Subway (slope)',
+    description: 'Metro (slope)',
     size: 1,
     image: '1324',
     rotate: [328, 325, 326, 327],
@@ -3372,7 +3372,7 @@ var data = [
   {
     id: 325,
     type: 'subway',
-    description: 'Subway (corner)',
+    description: 'Metro (corner)',
     size: 1,
     image: '1325',
     rotate: [325, 326, 327, 328],
@@ -3380,7 +3380,7 @@ var data = [
   {
     id: 326,
     type: 'subway',
-    description: 'Subway (corner)',
+    description: 'Metro (corner)',
     size: 1,
     image: '1326',
     rotate: [326, 327, 328, 325],
@@ -3388,7 +3388,7 @@ var data = [
   {
     id: 327,
     type: 'subway',
-    description: 'Subway (corner)',
+    description: 'Metro (corner)',
     size: 1,
     image: '1327',
     rotate: [327, 328, 325, 326],
@@ -3396,7 +3396,7 @@ var data = [
   {
     id: 328,
     type: 'subway',
-    description: 'Subway (corner)',
+    description: 'Metro (corner)',
     size: 1,
     image: '1328',
     rotate: [328, 325, 326, 327],
@@ -3404,35 +3404,35 @@ var data = [
   {
     id: 329,
     type: 'subway',
-    description: 'Subway (intersection)',
+    description: 'Metro (intersection)',
     size: 1,
     image: '1329',
   },
   {
     id: 330,
     type: 'subway',
-    description: 'Subway (intersection)',
+    description: 'Metro (intersection)',
     size: 1,
     image: '1330',
   },
   {
     id: 331,
     type: 'subway',
-    description: 'Subway (intersection)',
+    description: 'Metro (intersection)',
     size: 1,
     image: '1331',
   },
   {
     id: 332,
     type: 'subway',
-    description: 'Subway (intersection)',
+    description: 'Metro (intersection)',
     size: 1,
     image: '1332',
   },
   {
     id: 333,
     type: 'subway',
-    description: 'Subway (intersection)',
+    description: 'Metro (intersection)',
     size: 1,
     image: '1333',
   },
@@ -3545,7 +3545,7 @@ var data = [
     id: 349,
     type: 'subway',
     subtype: 'pipe',
-    description: 'Subway (straight) with Pipe',
+    description: 'Metro (straight) with Pipe',
     size: 1,
     image: '1349',
   },
@@ -3553,14 +3553,14 @@ var data = [
     id: 350,
     type: 'subway',
     subtype: 'pipe',
-    description: 'Subway (straight) with Pipe',
+    description: 'Metro (straight) with Pipe',
     size: 1,
     image: '1350',
   },
   {
     id: 351,
     type: 'pipe',
-    description: 'Building Pipes',
+    description: 'Node Pipelines',
     size: 1,
     image: '1351',
   },

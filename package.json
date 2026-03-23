@@ -1,6 +1,6 @@
 {
-  "name": "OpenSC2K",
-  "description": "An Open Source remake of SimCity 2000",
+  "name": "RoadCity2K",
+  "description": "Roadopolis v2 — SimCity 2000-based network city builder by BlackRoad OS",
   "author": "Nicholas Ochoa",
   "version": "0.6.0",
   "homepage": "https://github.com/rage8885/OpenSC2K",
@@ -14,9 +14,9 @@
     "dev": "webpack-dev-server --progress --config './webpack.config.js'"
   },
   "dependencies": {
-    "@vingle/bmp-js": "rage8885/bmp-js",
-    "bmp-js": "rage8885/bmp-js",
-    "dat.gui": "rage8885/dat.gui",
+    "@vingle/bmp-js": "npm:bmp-js@^0.1.0",
+    "bmp-js": "^0.1.0",
+    "dat.gui": "^0.7.9",
     "file-saver": "^2.0.0",
     "jquery": "^3.4.0",
     "jszip": "^3.1.5",

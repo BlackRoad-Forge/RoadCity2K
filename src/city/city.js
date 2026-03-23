@@ -14,7 +14,7 @@ export default class city {
   }
 
   create () {
-    this.name       = this.scene.importedData.info.name       || 'Default City';
+    this.name       = this.scene.importedData.info.name       || 'Default Network';
     this.rotation   = this.scene.importedData.info.rotation   || 0;
     this.waterLevel = this.scene.importedData.info.waterLevel || 4;
 
